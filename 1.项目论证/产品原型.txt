@@ -1,3 +1,3 @@
-组内人员共同完成，下方是产品原型链接
+产品原型链接，由于最终是希望能够实现一个智能语音设备，因此在原型中只提供了一些功能。
 
 https://free.modao.cc/app/d9d6dd6e6ed0e75a9fecba4353475254d1032b4c?simulator_type=device&sticky
